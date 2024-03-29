@@ -23,3 +23,9 @@ Neat picture
 but how can one come up with those steps
 ![image of grinch CAT](https://octodex.github.com/images/grinchtocat.gif)
 ##### there is also situations when it's difficult to know what you don't know
+***way to figure out what u don't know what u don't know***
+- [ ] define the problem/end goal/where you need to be as specifically as possible
+- [ ] see if there are foundational resources that will help with improving overall understanding of the situation
+- [ ] try to see some similarities in other *context* to see what can help in your situation
+- [x] overall need to **something** to get the result needed (it always help if it can be broken down)
+- [ ] then see what the results after trying/doing the something and hopefully they're the expected results
