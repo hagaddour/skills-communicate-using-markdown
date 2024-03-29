@@ -1,4 +1,18 @@
 # testing and learning about headings
+
+```js
+var foo = 'bar';
+
+function baz(s) {
+   return foo + ':' + s;
+}
+```
+```py
+foo = 'bar'
+
+Caz(s):
+   return foo + ':' + s
+```
 ## practice makes perfect
 just need to be able to practice
 ### one step at a time while building up clearer picture of the goal is one way to do
